@@ -1,0 +1,1 @@
+{"name":"local-visual-editor","version":"0.1.0","private":true,"description":"Copyable local source editor for Next.js App Router","scripts":{"test":"vitest run"},"peerDependencies":{"next":"^15.0.0","react":"^19.0.0","typescript":"^5.7.0"},"devDependencies":{"vitest":"^2.1.8","@types/node":"^22.10.1","@types/react":"^19.0.2"}}
